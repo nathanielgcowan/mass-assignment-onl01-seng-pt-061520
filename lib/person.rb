@@ -4,5 +4,4 @@ class Person
 :weight, :handed, :complexion, :t_shirt_size, 
 :wrist_size, :glove_size, :pant_length, :pant_width
 
-  def initialize(:name)
 end
